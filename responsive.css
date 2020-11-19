@@ -1,0 +1,294 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width:320px) {
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media  screen and (max-width: 767px){
+.nav-header {
+	width: 100%;
+	background: #FFF;
+	left: 0%;
+	height: 0px;
+    overflow: hidden;
+    transition:all 0.3s ease-in-out;
+    border-top: 1px solid#f4f4f4;
+	padding-top: 10px;
+}
+.displayNav{
+    height: 380px;
+}
+.nav-header ul li {
+	display: block;
+}
+.search-box-header {
+	display: none;
+}
+.barnd-logo a {
+  display: block;
+}
+.barnd-logo {
+	padding-bottom: 15px;
+}
+.shape-wrapper {
+	display: none;
+}
+.inner-content h2 {
+	font-size: 35px;
+}
+.inner-content-wrap-left {	
+	margin-top: 0%;
+}
+.inner-content {
+	text-align: center;
+}
+.inner-content p {
+	font-size: 14px;
+}
+.hero-btn {
+	display: flex;
+	justify-content: center;
+}
+.default-btn-one {
+	padding: 10px 15px;
+	font-size: 12px;
+	height: 38px;
+}
+.video-play-btn {
+	padding: 5px 30px;
+}
+.section-title h3 {
+	font-size: 28px;
+}
+.title-with-content {
+	margin-bottom: 30px;
+}
+.default-btn-two {
+	padding: 5px 30px;
+}
+.sigle-feature-box h4 {
+	color: #3b3663;
+	font-size: 15px;
+}
+.sigle-feature-box.service-box p {
+	font-size: 13px;
+}
+.boosting-item-tab.mb-3 ul li {
+	width: 45%;
+}
+.single-team-wrapper {
+	margin-bottom: 20px;
+}
+.single-project span {
+	font-size: 16px;
+}
+.blog-text-content h4 {
+	font-size: 14px;
+}
+.blog-date span {
+	font-size: 8px;
+}
+.cta-left {
+	text-align: center;
+	margin-bottom: 15px;
+}
+.cta-left h4 {
+	font-size: 16px;
+}
+.cta-left span {
+	font-size: 12px;
+}
+.cta-right form input[type="text"] {
+	padding: 10px;
+}
+.cta-right form input[type="submit"] {
+	padding: 10px;
+}
+.single-widget-footer.links ul li a {
+	padding-bottom: 10px;
+	font-size: 13px;
+}
+.phn-info {
+	font-size: 12px;
+}
+.phn-info p{
+    font-size:12px;
+}
+.widget-inner i {
+	font-size: 14px;
+}
+.widget-inner {
+	margin-bottom: 10px;
+}
+.footer-widget-section h4 {
+	font-size: 14px;
+}
+.footer-bottom {
+	text-align: center;
+}
+.contact-analysis input[type="text"] {
+	padding-bottom: 15px;
+	font-size: 12px;
+}
+.ptb-100 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.single-blog-wrapper {
+	margin-bottom: 20px;
+}
+.slide-text {
+	padding: 60px 15px;
+}
+.slide-text h5 {
+	font-size: 14px;
+}
+.slide-text span {
+	font-size: 10px;
+	margin-top: -6px;
+}
+.slide-text i {
+	font-size: 14px;
+}
+.slide-text p {
+	font-size: 12px;
+}
+.single-slide-wrapper {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.blog-text-content .default-btn-two {
+	font-size: 10px;
+}
+.boosting-item-tab ul li a h6 {
+	font-size: 12px;
+}
+.py-4 {
+    padding: 1rem 0rem !important;
+}
+.project-hero-wrapper {	
+	height: 60vh;
+}
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px){
+    .nav-header ul li a {
+	padding: 10px 8px;
+}
+.search-icon {
+	width: 50%;
+}
+.inner-content h2 {
+	font-size: 45px;
+}
+.default-btn-one {
+	display: inline-block;
+	padding: 10px 20px;
+	color: #ffffff;
+	font-size: 10px;
+	height: 40px;
+	width: 150px;
+}
+.video-play-btn {
+	font-size: 15px;
+	margin-left: 0px;
+}
+.boosting-item-tab.mb-3 ul li {
+	width: 14.8%;	
+}
+.boosting-item-tab ul li a h6 {
+	font-size: 12px;
+}
+.team-content.text-center h6 {
+	margin-top: 20px;
+	font-size: 16px;
+}
+.shape-text h2 {
+	font-size: 86px;
+}
+.target {
+	display: none;
+}
+.project-hero-wrapper {	
+	height: 60vh;
+}
+.team-content.text-center ul li a {	
+	width: 18px;
+	height: 18px;
+	line-height: 18px;
+	font-size: 8px;
+}
+.team-content span {
+	font-size: 13px;
+}
+.section-title h3 {
+	font-size: 24px;
+}
+.real-time-content-wrapper.text-left a {
+	font-size: 12px;
+}
+.why-chooseus-left a {
+	font-size: 12px;
+}
+.ptb-100 {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.blog-text-content h4 {
+	font-size: 12px;
+}
+.blog-text-content ul li a {
+	margin-right: 2px;
+	font-size: 8px;
+}
+.blog-text-content ul li {
+	font-size: 8px;
+}
+.blog-date span {
+	font-size: 6px;
+}
+.blog-text-content .default-btn-two {
+	font-size: 8px;
+}
+.blog-text-content p {
+	font-size: 9px;
+}
+.cta-right form input[type="submit"] {
+	padding: 10px;
+	font-size: 10px;
+}
+.cta-right form input[type="text"] {
+	padding: 10px;
+	font-size: 10px;
+}
+.footer-widget-section h4 {
+	font-size: 11px;
+}
+.single-widget-footer.links ul li a {
+	padding-bottom: 14px;
+	font-size: 12px;
+}
+.single-widget-footer p {
+	font-size: 12px;
+}
+.phn-info {
+	font-size: 14px;	
+}
+.widget-inner i {
+	font-size: 14px;
+}
+.widget-inner {
+	margin-bottom: 15px;
+}
+.footer-bottom ul li {
+	font-size: 12px;
+}
+
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
